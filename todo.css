@@ -1,0 +1,36 @@
+.box{
+   background-color: rgb(176, 176, 243);
+   width:350px;
+   border-radius: 5%;
+   border: 2px solid violet;
+   
+}
+
+.heading{
+    margin-left: 2px;
+    margin-top: 4px;
+    
+}
+
+.input{
+    margin-left: 2px;
+}
+
+.container{
+   background-color:rgb(160, 190, 245);
+   width:250px;
+   border-radius: 5%;
+   border: 2px solid rgb(232, 11, 184);
+   margin-left: 4px;
+}
+/*.button{
+    background-color: rgb(172, 117, 224);
+}*/
+
+.li{
+    font-weight: bold;
+}
+
+/*.delete{
+    background-color: rgb(236, 149, 218);
+}
